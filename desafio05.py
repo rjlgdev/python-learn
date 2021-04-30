@@ -1,0 +1,2 @@
+a = int(input(">>>Digite um numero e descubra sua tabuada: "))
+print('{}*2 = {};\n{}*3 = {};\n{}*4 = {};\n{}*5 = {};\n{}*6 = {};\n{}*7 = {};\n{}*8 = {};\n{}*9 = {};\n{}*10= {}'.format(a,a*2,a,a*3,a,a*4,a,a*5,a,a*6,a,a*7,a,a*8,a,a*9,a,a*10))
