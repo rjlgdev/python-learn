@@ -10,4 +10,6 @@ c = "aaa".isalpha() # alphabetic value. TRUE
 
 d = "a1".isalnum() # alphanumeric value. TRUE (letter or numbers)
 
-print(d)
+''' math.ceil(round up)
+    math.floor(round down)
+'''
